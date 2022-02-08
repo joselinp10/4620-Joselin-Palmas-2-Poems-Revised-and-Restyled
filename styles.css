@@ -1,0 +1,51 @@
+#container {
+    width: 960px;
+    height: 500px;
+    border: solid thick pink;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 20px 20px 20px;
+
+    
+}
+
+body { font-family:'Patrick Hand' , sans-serif;
+        background-image: url("https://images.unsplash.com/photo-1520052205864-92d242b3a76b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80");
+    
+    }
+    
+#Poem1 { 
+    width: 40%;
+    height: 80%;
+      background-image:url(https://images.unsplash.com/photo-1564884697746-88d03a5a4a0f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60); 
+      color: lightblue;
+    padding: 30px;
+    float: left;
+    margin-left: 2%;
+    font-size: 15px;
+    margin-top: 1.5%;
+   
+      }
+      
+#Poem2 {  
+    width: 40%;
+    height: 80%;
+      background-image:url("https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
+      color: lightblue;
+    padding: 30px;
+    float: left;
+    font-size: 15px;
+    margin-left: 2.7%;
+    margin-top: 1.5%;
+     }
+    
+    mark {
+    background-color: white;
+}
+
+    
+    
+    
+    
+    
